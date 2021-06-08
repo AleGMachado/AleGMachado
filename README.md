@@ -1,3 +1,6 @@
 # Welcome to my GitHub page!
-![HTML5LOGO](/images/html5.png)
-Format: ![Alt Text](url)
+
+
+
+### My Skills
+![HTML5LOGO](/images/html5.png = 50x50)
